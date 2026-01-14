@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-
-**Neil-05/Neil-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+💫 About Me:
 👋 Hi, I’m Neil — a B.Tech Computer Science student with strong interest in Machine Learning and Data Science.  <br>I enjoy building end-to-end AI systems, working with data, and turning ideas into practical applications.  <br>Currently exploring LLMs, RAG systems, and backend engineering for AI-powered products.<br>
 
 
